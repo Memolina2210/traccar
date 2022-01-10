@@ -41,6 +41,7 @@ public final class Main {
     }
 
     private Main() {
+        System.out.println("Hola");
     }
 
     public static void logSystemInfo() {
